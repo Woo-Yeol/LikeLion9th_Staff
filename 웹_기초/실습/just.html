@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <!-- 합쳐지고 최소화된 최신 CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- 부가적인 테마 -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+<!-- 합쳐지고 최소화된 최신 자바스크립트 -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>나를 소개해요</title>
+</head>
+<body>
+    <div class="container">
+    여기에 글쓰면 이제 보인당<br>
+    <ul class="nav nav-tabs">
+        <li role="presentation" class="active"><a href="just.html">유년기</a></li>
+        <li role="presentation"><a href="1.html">질풍노도기</a></li>
+        <li role="presentation"><a href="2.html">방황기</a></li>
+      </ul>
+    <form action="전송받을대상">
+        아이디 : <input type="text" name="id">
+        비밀번호 : <input type="password" name="pw">
+        <div class="form-group">
+          <label for="exampleInputEmail1">이메일 주소</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="이메일을 입력하세요">
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">암호</label>
+          <input type="password" class="form-control" id="exampleInputPassword1" placeholder="암호">
+        </div>
+        <div class="form-group">
+          <label for="exampleInputFile">파일 업로드</label>
+          <input type="file" id="exampleInputFile">
+          <p class="help-block">여기에 블록레벨 도움말 예제</p>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox"> 입력을 기억합니다
+          </label>
+        </div>
+        <button type="submit" class="btn btn-primary">제출</button>
+      </form><br>
+    <img src="1.png" alt="picture" width=300>
+    <br>
+
+    <form action="전송받을대상">
+        <h2>나의 일기장</h2>
+        제목 : <input type="text" name="diarytitle"><br>
+
+        <select>
+            <option value="goodday">좋은날</option>
+            <option value="sadday">슬픈날</option>
+            <option value="soso">그냥저냥한날</option>
+        </select> <br>
+
+        내용 : <br>
+        <textarea cols="30" rows="10"></textarea><br>
+        <input type="submit">
+    </form><br>
+
+    <div class="progress">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+          <span class="sr-only">40% Complete (success)</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+          <span class="sr-only">20% Complete</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+          <span class="sr-only">60% Complete (warning)</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+          <span class="sr-only">80% Complete (danger)</span>
+        </div>
+      </div>
+</div>
+</body>
+</html>
