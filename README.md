@@ -9,11 +9,17 @@ LikeLion 8-9th 임우열
 
 ### 📌 웹 기초
 
-**[[실습 #1 - HTML](./웹_기초/실습/just.html)]**<br/>
-**[[실습 #2 - BootStrap](./웹_기초/실습/index.html)]**<br/> 
+**[[실습 #1 - HTML](./웹_기초/실습/just.html)]**<br>
+**[[실습 #2 - BootStrap](./웹_기초/실습/index.html)]**<br> 
 
-1. Web_&_Web_Service [Web의 개념] **[[Summary](./웹_기초/Web_&_Web_Service.md)]**<br/>
-2. 웹_서버를_만드는_방법 [Server Computer] **[[Summary](./웹_기초/웹_서버를_만드는_방법.md)]**<br/>
+1. Web_&_Web_Service [Web의 개념] **[[Summary](./웹_기초/Web_&_Web_Service.md)]**<br>
+2. 웹_서버를_만드는_방법 [Server Computer] **[[Summary](./웹_기초/웹_서버를_만드는_방법.md)]**<br>
 3. HTML [HTML 개념 & 실습] **[[Summary](./웹_기초/HTML.md)]**<br/>
 4. BootStrap [BootStrap의 개념 & 실습] **[[Summary](./웹_기초/BootStrap.md)]**<br/>
-5. Github_배포 [Github.io] **[[Summary](./웹_기초/Github_배포.md)]**<br/>
+5. Github_배포 [Github.io] **[[Summary](./웹_기초/Github_배포.md)]**<br>
+
+
+### 📌 HTML & CSS
+
+1. OT [오리엔테이션] **[[Summary](./HTML_&_CSS/OT.md)]**<br>
+2. HTML [HTML 기초] **[[Summary](./HTML_&_CSS/HTML.md)]**<br>
