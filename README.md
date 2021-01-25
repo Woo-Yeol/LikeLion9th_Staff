@@ -14,8 +14,8 @@ LikeLion 8-9th 임우열
 
 1. Web_&_Web_Service [Web의 개념] **[[Summary](./웹_기초/Web_&_Web_Service.md)]**<br>
 2. 웹_서버를_만드는_방법 [Server Computer] **[[Summary](./웹_기초/웹_서버를_만드는_방법.md)]**<br>
-3. HTML [HTML 개념 & 실습] **[[Summary](./웹_기초/HTML.md)]**<br/>
-4. BootStrap기초 [BootStrap의 개념 & 실습] **[[Summary](./웹_기초/BootStrap.md)]**<br/>
+3. HTML [HTML 개념 & 실습] **[[Summary](./웹_기초/HTML.md)]**<br>
+4. BootStrap기초 [BootStrap의 개념 & 실습] **[[Summary](./웹_기초/BootStrap.md)]**<br>
 5. Github_배포 [Github.io] **[[Summary](./웹_기초/Github_배포.md)]**<br>
 
 
@@ -23,5 +23,5 @@ LikeLion 8-9th 임우열
 
 1. OT [오리엔테이션] **[[Summary](./HTML_&_CSS/OT.md)]**<br>
 2. HTML [HTML 기초] **[[Summary](./HTML_&_CSS/HTML.md)]**<br>
-3. CSS #1 [개념/적용 및 선택자/값(단위,색),텍스트] **[[Summary](./HTML_&_CSS/CSS_#1.md)]**<br>
-4. CSS #2 [박스/위치관련] **[[Summary](./HTML_&_CSS/CSS_#2.md)]**<br>
+3. CSS #1 [개념/적용 및 선택자/값(단위,색),텍스트] **[[Summary](./HTML_&_CSS/CSS#1.md)]**<br>
+4. CSS #2 [박스/위치관련] **[[Summary](./HTML_&_CSS/CSS#2.md)]**<br>
