@@ -10,7 +10,7 @@
 #### Github : Web Hosting 기능
 * Easy & Free
 
-1. <Nickname>.github.io : Repository 생성
+1. <pre><code><Nickname></code></pre>.github.io : Repository 생성
     : Public
 
 2. html 파일 업로드 및 Commit

@@ -15,9 +15,9 @@
 2. Jquery CDN :
     - head에 추가하기
 3. 부트스트랩의 콘테이너 만들기
-    - <div class="container"></div>
+    -  <pre><code><div class="container"></div></code></pre>
 4. 부트스트랩의 버튼 적용하기
-    - <input type="submit" class="btn btn-primary">
+    -  <pre><code><input type="submit" class="btn btn-primary"></code></pre>
 5. 부트스트랩의 폼 가져오기
 ```
 <form action="전송받을대상">

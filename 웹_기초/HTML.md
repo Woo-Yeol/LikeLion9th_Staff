@@ -42,9 +42,9 @@ Introduction to html - [[과제](http://www.codecademy.com)]
 **꾸미는 언어는 CSS!**
 
 1. "이거 HTML(로 작성된) 문서야~"를 알려주는 태그 :
-    - <!DOCTYPE html>
-    - <html lang='ko'>
-    - <head>
+    - <pre><code><!DOCTYPE html></code></pre>
+    - <pre><code><html lang='ko'></code></pre>
+    - <pre><code><head></code></pre>
 
 2. 직접 화면에 등장하진 않지만 이 문서를 설명하는 태그
     - ex) 이 문서를 한 마디로 설명하는 문서의 'Title', 인코딩 방식(utf-8) 등등...
@@ -58,7 +58,7 @@ Introduction to html - [[과제](http://www.codecademy.com)]
     - Extension : Live Server
 
 ##### Form 태그
-* <form action ="전송받을대상"></form>
+* <pre><code><form action ="전송받을대상"></form></code></pre>
     * **사용자** -form-> **HTML** -form action="전송받을 대상"-> **전송 받을 대상**
 
 ##### Input 태그
@@ -76,4 +76,4 @@ Introduction to html - [[과제](http://www.codecademy.com)]
 * ul : 순서없는 리스트
 
 ##### a 태그
-- <a href = "하이퍼링크"></a>
+-  <pre><code><a href = "하이퍼링크"></a></code></pre>
