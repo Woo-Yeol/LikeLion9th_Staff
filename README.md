@@ -20,8 +20,10 @@ LikeLion 8-9th 임우열
 
 
 ### 📌 HTML & CSS
+**[[실습 #1 - Flex_Box](./HTML_&_CSS/flex.html)]**<br>
 
 1. OT [오리엔테이션] **[[Summary](./HTML_&_CSS/OT.md)]**<br>
 2. HTML [HTML 기초] **[[Summary](./HTML_&_CSS/HTML.md)]**<br>
-3. CSS #1 [개념/적용 및 선택자/값(단위,색),텍스트] **[[Summary](./HTML_&_CSS/CSS#1.md)]**<br>
-4. CSS #2 [박스/위치관련] **[[Summary](./HTML_&_CSS/CSS#2.md)]**<br>
+3. CSS #1 [개념/적용 및 선택자/값(단위,색),텍스트] **[[Summary](./HTML_&_CSS/CSS_1.md)]**<br>
+4. CSS #2 [Box_Model / Flex_box] **[[Summary](./HTML_&_CSS/CSS_2.md)]**<br>
+6. 상속과 우선순위 [Inherit / Priority] **[[Summary](./HTML_&_CSS/Inherit_Priority.md)]**<br>
